@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ProjectFootprints)(type Legacy)(uri ${KIPRJMOD}/lib/ProjectFootprints.lib)(options "")(descr ""))
+  (lib (name QFP44Adapter-rescue)(type Legacy)(uri ${KIPRJMOD}/QFP44Adapter-rescue.lib)(options "")(descr ""))
+)
