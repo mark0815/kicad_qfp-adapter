@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 12)
     (tracks 247)
     (zones 0)
     (modules 4)
@@ -718,6 +718,9 @@
     )
   )
 
+  (gr_text 1 (at 84.168 59.492) (layer F.SilkS) (tstamp 5C55647B)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text "QFP44-DIP44\nBreadboard\nAdapter" (at 72.644 65.024) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
